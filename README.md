@@ -7,7 +7,7 @@ Ensuite, créer une classe Manager qui hérite de Employe et ajoute :
 - prime (double)
 Redéfinir la méthode afficherInfos() pour afficher aussi la prime et le salaire total (salaire + prime).
 <img width="2559" height="1327" alt="image" src="https://github.com/user-attachments/assets/8ca7a1e4-7291-4730-aed2-f333e31c30db" />
-## Exercice 2 : Liste d’objets
+# Exercice 2 : Liste d’objets
 Créer une classe Livre avec :
 - titre (String)
 - auteur (String)
